@@ -1,6 +1,4 @@
-package Basic_Math;
-
-import java.util.Scanner;
+package Basic;
 
 public class Fibonacci {
 
